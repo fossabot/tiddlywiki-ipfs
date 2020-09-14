@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://github.com/ContributorCovenant/contributor_covenant"><img alt="An ethical open source project" src="https://img.shields.io/badge/open-ethical-%234baaaa"/></a>
   <a href="LICENSE"><img alt="License: GPL v3" src="https://img.shields.io/badge/License-GPLv3-blue.svg"/></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fxmaysonnave%2Ftiddlywiki-ipfs?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxmaysonnave%2Ftiddlywiki-ipfs.svg?type=shield"/></a>
   <a href="CODE_OF_CONDUCT.md"><img alt="Covenant" src="https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg"/></a>
 </p>
 
@@ -49,6 +50,9 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/TiddlyWiki):
 -   Decentralized
 -   Unhackable
 -   Unstoppable
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxmaysonnave%2Ftiddlywiki-ipfs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxmaysonnave%2Ftiddlywiki-ipfs?ref=badge_large)
 
 ## Using `IPFS with TiddlyWiki`:
 
